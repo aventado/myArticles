@@ -14,6 +14,13 @@
 
 [stackOverFlow基础](https://github.com/M4xW4n9/my_repo/tree/master/programSec/lab2)
 
+[stackOverFlow基础](https://github.com/M4xW4n9/my_repo/tree/master/islab/stackOverflow)
+
+[rop](https://github.com/M4xW4n9/my_repo/tree/master/islab/rop)
+
+[debug&patch](https://github.com/M4xW4n9/my_repo/tree/master/islab/debug%26patch)
+
+
 ## re类:
 [《旅行青蛙》反编译/破解过程](http://www.cnblogs.com/WangAoBo/p/8419155.html)
 
