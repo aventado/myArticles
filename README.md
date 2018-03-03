@@ -12,9 +12,9 @@
 
 [LinuxC下argc,argv\[ \]的意义](http://www.cnblogs.com/WangAoBo/p/6366600.html)
 
-[stackOverFlow基础](https://github.com/M4xW4n9/my_repo/tree/master/programSec/lab2)
+[stackOverFlow基础1](https://github.com/M4xW4n9/my_repo/tree/master/programSec/lab2)
 
-[stackOverFlow基础](https://github.com/M4xW4n9/my_repo/tree/master/islab/stackOverflow)
+[stackOverFlow基础2](https://github.com/M4xW4n9/my_repo/tree/master/islab/stackOverflow)
 
 [rop](https://github.com/M4xW4n9/my_repo/tree/master/islab/rop)
 
