@@ -8,6 +8,8 @@
 
 [【CTF 攻略】CTF比赛中关于zip的总结](http://www.cnblogs.com/WangAoBo/p/6944477.html)
 
+[git简明教程](https://github.com/M4xW4n9/my_repo/blob/master/learngit/git%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B(%E2%85%A0).md)
+
 ## pwn基础：
 
 [LinuxC下argc,argv\[ \]的意义](http://www.cnblogs.com/WangAoBo/p/6366600.html)
