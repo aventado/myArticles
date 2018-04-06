@@ -37,4 +37,8 @@
 
 [IDA pro 6.8设置显示中文字符串的方法](http://www.cnblogs.com/WangAoBo/p/7636335.html)
 
+## auto类
+
 [afl-fuzz技术初探](http://www.cnblogs.com/WangAoBo/p/8280352.html)
+
+[现代化工具](https://github.com/M4xW4n9/my_repo/blob/master/islab/Extended%20CTF.pdf)
