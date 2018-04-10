@@ -31,6 +31,8 @@
 
 [uaf](https://github.com/M4xW4n9/my_repo/blob/master/islab/Basic%20Vulnerabilities%20in%20Heap.pptx)
 
+[如何在linux主机上运行/调试 arm/mips架构的binary](http://www.cnblogs.com/WangAoBo/p/debug-arm-mips-on-linux.html)
+
 
 ## re类:
 [《旅行青蛙》反编译/破解过程](http://www.cnblogs.com/WangAoBo/p/8419155.html)
